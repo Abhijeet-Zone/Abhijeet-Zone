@@ -86,7 +86,7 @@ Building intelligent systems, scalable applications, and turning ideas into prod
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Abhijeet-Zone&theme=aura&show_icons=true&count_private=true" />
