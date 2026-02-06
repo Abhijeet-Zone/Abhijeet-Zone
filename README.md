@@ -110,3 +110,8 @@ Building intelligent systems, scalable applications, and turning ideas into prod
 <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=Abhijeet-Zone&icon=0&color=0"/>
 </p>
+## 📈 Activity Map 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeet-Zone&theme=react-dark&hide_border=true" />
+</p>
