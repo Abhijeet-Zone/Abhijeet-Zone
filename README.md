@@ -86,16 +86,6 @@ Building intelligent systems, scalable applications, and turning ideas into prod
 
 ---
 
-## 📊 GitHub Status
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhijeet-Zone&theme=aura&show_icons=true&count_private=true" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Abhijeet-Zone&theme=aura" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet-Zone&layout=compact&theme=aura" />
-</p>
-
----
-
 ## ✍️ Random Dev Quote
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
